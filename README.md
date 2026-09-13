@@ -32,13 +32,13 @@ The dataset contains 7,043 customer records from a telecom company, including:
 
 New customers (0–12 months) churn at 47.4%, nearly five times the rate of loyal customers (48+ months) at 9.5%. Established customers (12–48 months) sit in between at 23.6%. This gap is statistically significant (chi-square p < 0.001).
 
-### 2. More Services Generally Means Safer — With One Exception
+### 2. More Services Generally Means Safer, With One Exception
 
 Churn drops steadily from 45.8% down to 5.3% as customers subscribe to more of the six add-on services. The exception: customers with exactly one service churn worse (45.8%) than customers with zero services (21.4%), suggesting a single add-on signals a customer still testing the waters rather than committing.
 
 ### 3. A Hidden Risk Inside a "Safe-Looking" Segment
 
-Looking at tenure and service count alone hides an important pattern. Customers on a month-to-month contract, with established tenure (12–48 months) and 4 subscribed services, still churn at approximately 45% — nearly double the overall churn rate.
+Looking at tenure and service count alone hides an important pattern. Customers on a month-to-month contract, with established tenure (12–48 months) and 4 subscribed services, still churn at approximately 45%, nearly double the overall churn rate.
 
 This highlights an important business insight:
 
@@ -70,11 +70,11 @@ Customers with only one service churn worse than customers with none. Sales and 
 
 ### 3. Target Month-to-Month Contracts for Conversion
 
-Established, well-serviced customers on month-to-month contracts still churn at ~45%. A conversion incentive aimed at this specific segment addresses the highest-value blind spot in the data — not the newest customers, but the ones retention programs typically assume are already safe.
+Established, well-serviced customers on month-to-month contracts still churn at ~45%. A conversion incentive aimed at this specific segment addresses the highest-value blind spot in the data, not the newest customers, but the ones retention programs typically assume are already safe.
 
 ## Conclusion
 
-Churn at this company is not random — it is concentrated and predictable. New customers churn at nearly five times the rate of loyal customers, and service bundling helps only after the first add-on. The most valuable finding is the segment retention teams would normally overlook: established, well-serviced customers on month-to-month contracts still churn at ~45%, showing that contract type — not tenure or service count — is the real driver of loyalty.
+Churn at this company is not random. It is concentrated and predictable. New customers churn at nearly five times the rate of loyal customers, and service bundling helps only after the first add-on. The most valuable finding is the segment retention teams would normally overlook: established, well-serviced customers on month-to-month contracts still churn at ~45%, showing that contract type, not tenure or service count, is the real driver of loyalty.
 
 For better retention decisions, tenure and service count should be evaluated together with contract type rather than relying on either signal alone.
 
